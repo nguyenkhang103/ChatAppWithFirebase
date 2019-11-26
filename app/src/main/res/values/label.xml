@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_tittle_register">Get started with free account</string>
+    <string name="label_username">Username</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_create_my_account">Create my account</string>
+    <string name="label_login">Login</string>
+    <string name="label_register">Register</string>
+    <string name="label_logout">Logout</string>
+    <string name="label_type_a_message">Type a message...</string>
+    <string name="label_hello">hello</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_search_friend">Search friend...</string>
+    <string name="label_seen">Seen</string>
+    <string name="label_reset_pass"><u>Forgot/Reset your password</u></string>
+    <string name="label_rest_password">Rest Password</string>
+    <string name="label_please_check_your_mail_to_reset_password">Please, check your mail to reset password</string>
+    <string name="label_description">Description</string>
+    <string name="label_b_n_ang_ngh_g">Bạn đang nghĩ gì?</string>
+    <string name="label_update_image">Update Image</string>
+</resources>

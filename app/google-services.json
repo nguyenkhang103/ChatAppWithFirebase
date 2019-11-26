@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397272649040",
+    "firebase_url": "https://fir-appandroid-48f61.firebaseio.com",
+    "project_id": "fir-appandroid-48f61",
+    "storage_bucket": "fir-appandroid-48f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397272649040:android:6c83bf52b9f89c208a7055",
+        "android_client_info": {
+          "package_name": "com.example.kaido.chatappwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397272649040-he81ranfvfllc8kn0chh6j68msu8ehg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaido.chatappwithfirebase",
+            "certificate_hash": "374085ab7169f0086ff54e06624ab4c6488da4e1"
+          }
+        },
+        {
+          "client_id": "397272649040-sp3di9ikatjoiel9sva46jaooo8fgl40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFacfve5q2GNBUtSTTfFykzwa4RCkrVHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397272649040-sp3di9ikatjoiel9sva46jaooo8fgl40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

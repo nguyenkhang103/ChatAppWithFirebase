@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/post"
+        android:title="@string/label_update_image"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/logout"
+        android:title="@string/label_logout"
+        app:showAsAction="never"/>
+
+</menu>
